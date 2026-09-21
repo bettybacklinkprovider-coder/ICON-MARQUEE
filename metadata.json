@@ -1,0 +1,6 @@
+{
+  "name": "ICON MARQUEE",
+  "description": "Luxury Event & Wedding Marquee in North Karachi, Pakistan. Premium venue for weddings, receptions, engagements, family events, and corporate gatherings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
